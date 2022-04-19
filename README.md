@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...any coding language
 - 🌱 I’m currently learning ...DSA in C++
 - 💞️ I’m looking to collaborate on ...any technical internships
-- 📫 How to reach me ...9381157807
+- 📫 How to reach me ...9381611501
 
 <!---
 horusknox/horusknox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
