@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shoukath ali shaik
-- 👀 I’m interested in ...any coding language
+- 👀 I’m interested in ...any projects that are intimidating
 - 🌱 I’m currently working on nest.js
 - 💞️ I’m looking to hop on to ...any technical jobs and internships
 - 📫 How to reach me ...9381611501
