@@ -1,6 +1,6 @@
 - Hi 🤜, This is Shoukath Ali Shaik
 - 👀 I’m interested in any tech project that is intimidating
-- 🌱 I’m currently working on VR with Unity
+- 🌱 I’m currently working on VR with Unity and A-Frame
 - 👩🏾‍🤝‍👩 I’m looking to hop on to any technical jobs and internships
 - 📫 How to reach me:
 - 
